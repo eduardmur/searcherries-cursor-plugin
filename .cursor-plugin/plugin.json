@@ -1,0 +1,27 @@
+{
+  "name": "searcherries",
+  "displayName": "Searcherries: AI Visibility & SEO",
+  "version": "1.0.0",
+  "description": "Connect Cursor to your AI visibility and SEO data: how ChatGPT, Perplexity, Google AI Overviews, Gemini, Claude and Grok answer your customers' questions, which competitors and pages they cite, plus your Search Console, Bing and GA4 AI-traffic data. Then improve your site's pages right in the editor.",
+  "author": {
+    "name": "Searcherries"
+  },
+  "homepage": "https://searcherries.com/docs/mcp/overview",
+  "repository": "https://github.com/eduardmur/searcherries-cursor-plugin",
+  "license": "MIT",
+  "keywords": [
+    "geo",
+    "ai visibility",
+    "ai search",
+    "seo",
+    "google search console",
+    "bing webmaster tools",
+    "google analytics",
+    "competitors",
+    "citations",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "./mcp.json",
+  "skills": "./skills/"
+}
